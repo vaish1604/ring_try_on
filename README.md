@@ -1,6 +1,9 @@
 # ring_try_on
 This repo places a 3D ring on a hand 
- 
+
+https://github.com/vaish1604/ring_try_on/assets/80941602/aac56cd3-ef03-4f0b-a3c7-d8d62640c770
+
+      
 ## The modules and tasks in this project are:     
 1. Hand Landmark detection:  Mediapipe
 2. Pose estimation : custom function using rigid tranform
@@ -19,3 +22,7 @@ self.cap = cv.VideoCapture('../data/videoCapture/video_name.mp4')
 ```
 
 Run the main.py file
+
+
+
+

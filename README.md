@@ -2,6 +2,8 @@
 This repo places a 3D ring on a hand 
 
 
+![ring (1)](https://github.com/vaish1604/ring_try_on/assets/80941602/e91e0a0d-59dc-4a86-a430-bf1159dd13e3)
+
 
       
 ## The modules and tasks in this project are:     
@@ -24,5 +26,6 @@ self.cap = cv.VideoCapture('../data/videoCapture/video_name.mp4')
 Run the main.py file
 
 
-https://github.com/vaish1604/ring_try_on/assets/80941602/aac56cd3-ef03-4f0b-a3c7-d8d62640c770
+
+
 
